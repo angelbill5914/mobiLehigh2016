@@ -1,2 +1,1 @@
-"# mobiLehigh2016" 
-# Python
+# mobiLehigh2016
